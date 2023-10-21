@@ -1,0 +1,10 @@
+.header-container {
+  width: 100%;
+  padding: 10px;
+  padding-left: 30px;
+  background-color: #f1f5f9;
+}
+.image-header {
+  height: 50px;
+  width: 80px;
+}
